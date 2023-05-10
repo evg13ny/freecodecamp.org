@@ -1,0 +1,1 @@
+Apply a class of `myDiv` to the `div` provided in the JSX code.

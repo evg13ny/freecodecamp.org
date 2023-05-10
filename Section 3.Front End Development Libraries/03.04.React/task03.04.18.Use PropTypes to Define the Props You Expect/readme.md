@@ -1,0 +1,1 @@
+Define `propTypes` for the `Items` component to require `quantity` as a prop and verify that it is of type `number`.

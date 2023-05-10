@@ -1,0 +1,1 @@
+There is a component in the code editor that is trying to render a `firstName` property from its `state`. However, there is no `state` defined. Initialize the component with `state` in the `constructor` and assign your name to a property of `firstName`.
