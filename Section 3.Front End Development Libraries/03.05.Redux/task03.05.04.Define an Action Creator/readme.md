@@ -1,0 +1,1 @@
+Define a function named `actionCreator()` that returns the `action` object when called.

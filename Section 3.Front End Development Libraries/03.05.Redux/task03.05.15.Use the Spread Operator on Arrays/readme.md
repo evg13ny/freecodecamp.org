@@ -1,0 +1,1 @@
+Use the spread operator to return a new copy of state when a to-do is added.
