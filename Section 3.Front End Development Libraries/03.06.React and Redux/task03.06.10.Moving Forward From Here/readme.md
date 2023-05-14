@@ -1,0 +1,1 @@
+Log the message `'Now I know React and Redux!'` to the console.

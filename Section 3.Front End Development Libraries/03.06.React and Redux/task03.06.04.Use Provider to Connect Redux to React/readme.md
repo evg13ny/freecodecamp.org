@@ -1,0 +1,3 @@
+The code editor now shows all your Redux and React code from the past several challenges. It includes the Redux store, actions, and the `DisplayMessages` component. The only new piece is the `AppWrapper` component at the bottom. Use this top level component to render the `Provider` from `ReactRedux`, and pass the Redux store as a prop. Then render the `DisplayMessages` component as a child. Once you are finished, you should see your React component rendered to the page.
+
+**Note:** React Redux is available as a global variable here, so you can access the `Provider` with dot notation. The code in the editor takes advantage of this and sets it to a constant Provider for you to use in the `AppWrapper` render method.
