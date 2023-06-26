@@ -6,4 +6,6 @@ You can use CSS animation to draw attention to specific sections of your webpage
 
 In this course, you'll build a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed.
 
+---
+
 Try to resize your screen size 🙂
